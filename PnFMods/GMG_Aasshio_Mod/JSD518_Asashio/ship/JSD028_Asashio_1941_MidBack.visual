@@ -17,6 +17,51 @@
 					<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
 				</transform>
 				<node>
+					<identifier>	HP_JF_2	</identifier>
+					<transform>
+						<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+						<row3>	0.0692 0.3129 -0.9822 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_JGM_2	</identifier>
+					<transform>
+						<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+						<row3>	0.0000 0.3035 -1.7052 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_JGT_2	</identifier>
+					<transform>
+						<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+						<row3>	0.0000 0.1534 -0.6515 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_Ship_death_2	</identifier>
+					<transform>
+						<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+						<row3>	0.0000 0.0000 -0.5759 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_flag_nation	</identifier>
+					<transform>
+						<row0>	1.0000 -0.0024 0.0002 0.0000	</row0>
+						<row1>	0.0024 0.9907 -0.1362 0.0000	</row1>
+						<row2>	0.0002 0.1362 0.9907 0.0000	</row2>
+						<row3>	0.0579 0.8338 -1.3778 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
 					<identifier>	MidBack_Net	</identifier>
 					<transform>
 						<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
@@ -562,7 +607,7 @@
 			</renderSets>
 		</lod>
 		<lod>
-			<extent>	35.0000	</extent>
+			<extent>	40.0000	</extent>
 			<castsShadow>	true	</castsShadow>
 			<renderSets>
 				<renderSet>	MidBack_crack_MidFront_in_lod2Shape	</renderSet>
